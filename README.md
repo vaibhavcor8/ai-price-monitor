@@ -1,0 +1,1 @@
+An automated Python-based monitoring tool that tracks market prices for Makhana (Fox Nuts). When the price hits a predefined target, the script leverages the Google Gemini AI (using the latest google-genai SDK) to generate a professional procurement message for business operations.
